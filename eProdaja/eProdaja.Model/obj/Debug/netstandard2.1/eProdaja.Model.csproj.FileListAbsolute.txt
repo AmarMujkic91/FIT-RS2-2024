@@ -1,0 +1,10 @@
+C:\Users\AmarMujkic\Downloads\RS 2\FIT-RS2-2024\eProdaja\eProdaja.Model\bin\Debug\netstandard2.1\eProdaja.Model.deps.json
+C:\Users\AmarMujkic\Downloads\RS 2\FIT-RS2-2024\eProdaja\eProdaja.Model\bin\Debug\netstandard2.1\eProdaja.Model.dll
+C:\Users\AmarMujkic\Downloads\RS 2\FIT-RS2-2024\eProdaja\eProdaja.Model\bin\Debug\netstandard2.1\eProdaja.Model.pdb
+C:\Users\AmarMujkic\Downloads\RS 2\FIT-RS2-2024\eProdaja\eProdaja.Model\obj\Debug\netstandard2.1\eProdaja.Model.csproj.AssemblyReference.cache
+C:\Users\AmarMujkic\Downloads\RS 2\FIT-RS2-2024\eProdaja\eProdaja.Model\obj\Debug\netstandard2.1\eProdaja.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmarMujkic\Downloads\RS 2\FIT-RS2-2024\eProdaja\eProdaja.Model\obj\Debug\netstandard2.1\eProdaja.Model.AssemblyInfoInputs.cache
+C:\Users\AmarMujkic\Downloads\RS 2\FIT-RS2-2024\eProdaja\eProdaja.Model\obj\Debug\netstandard2.1\eProdaja.Model.AssemblyInfo.cs
+C:\Users\AmarMujkic\Downloads\RS 2\FIT-RS2-2024\eProdaja\eProdaja.Model\obj\Debug\netstandard2.1\eProdaja.Model.csproj.CoreCompileInputs.cache
+C:\Users\AmarMujkic\Downloads\RS 2\FIT-RS2-2024\eProdaja\eProdaja.Model\obj\Debug\netstandard2.1\eProdaja.Model.dll
+C:\Users\AmarMujkic\Downloads\RS 2\FIT-RS2-2024\eProdaja\eProdaja.Model\obj\Debug\netstandard2.1\eProdaja.Model.pdb

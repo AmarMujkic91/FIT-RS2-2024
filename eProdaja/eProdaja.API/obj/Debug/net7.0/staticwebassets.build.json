@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/HKVd2zccBKH5wcN8XjHQmKkCEZTxpIrWQWtCGtm9lM=",
+  "Source": "eProdaja.API",
+  "BasePath": "_content/eProdaja.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
