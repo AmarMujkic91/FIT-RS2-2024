@@ -13,3 +13,5 @@ C:\Users\AmarMujkic\Downloads\RS 2\FIT-RS2-2024\eProdaja\eProdajaServices\obj\De
 C:\Users\AmarMujkic\Downloads\RS 2\FIT-RS2-2024\eProdaja\eProdajaServices\obj\Debug\net7.0\refint\eProdajaServices.dll
 C:\Users\AmarMujkic\Downloads\RS 2\FIT-RS2-2024\eProdaja\eProdajaServices\obj\Debug\net7.0\eProdajaServices.pdb
 C:\Users\AmarMujkic\Downloads\RS 2\FIT-RS2-2024\eProdaja\eProdajaServices\obj\Debug\net7.0\ref\eProdajaServices.dll
+C:\Users\AmarMujkic\Downloads\RS 2\FIT-RS2-2024\eProdaja\eProdajaServices\bin\Debug\net7.0\eProdajaServices.runtimeconfig.json
+C:\Users\AmarMujkic\Downloads\RS 2\FIT-RS2-2024\eProdaja\eProdajaServices\obj\Debug\net7.0\eProdajaServices.genruntimeconfig.cache
